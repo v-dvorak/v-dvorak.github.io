@@ -10,7 +10,14 @@ author_profile: true
 Jednoduchá knihovna pro časování v milisekundách, funguje na Atmega328P / Arduino UNO, s drobnými modifikacemi ji lze použít na různých hodinách mikrokontroleru a pro různá podobná AVR (úpravy lze provést podle dokumentace, link dole). K updatování času používá interrupty, může běžet bez přetečení skoro 50 dní.
 
 Kód je dostupný na [**GitHubu**](https://github.com/v-dvorak/timer).
-{: .notice}
+{: .notice--info}
+
+- [Features](#features)
+  - [Init](#init)
+  - [Get](#get)
+  - [Reset](#reset)
+- [Ukázka použití](#ukázka-použití)
+- [Sources](#sources)
 
 ## Features
 
