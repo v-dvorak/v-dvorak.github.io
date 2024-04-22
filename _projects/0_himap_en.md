@@ -1,7 +1,7 @@
 ---
 title: "HiMap"
 permalink: projects/himap_en/
-excerpt: "<b>📅 29. 2. 2024</b><br/>HiMap enables user to download high resolution maps by pasting together multiple map parts using the Google Maps Static API . Outputted map can be heavily customized by styles that can be created and previewed using Snazzy Maps, for example. Supports different zoom levels.<br/><br/><img src='/images/himap_cover.png'>"
+excerpt: "<b>📅 22. 4. 2024</b><br/>HiMap enables user to download high resolution maps by pasting together multiple map parts using the Google Maps Static API . Outputted map can be heavily customized by styles that can be created and previewed using Snazzy Maps, for example. Supports different zoom levels.<br/><br/><img src='/images/himap_cover.png'>"
 collection: projects
 ---
 📅 22. 4. 2024
