@@ -22,6 +22,9 @@ redirect_from:
 
 ## Some cool things I've been a part of
 
+
+* **spring 2024**: Prague Music Computing Group workshop
+  * As part of a term project I gave a short five minute tiktok-format presentation on optical music recognition (OMR) layout analysis at the first ever [PMCG workshop](https://ufal.mff.cuni.cz/events/prague-music-computing-group-workshop).
 * **spring 2024**: Global Game Jam
   * In collaboration with three friends, we developed a game in Godot within a 48-hour timeframe. For all of us, this was our first time using it. You can have a look at the game [here](https://globalgamejam.org/games/2024/happy-mix-9).
 * **since 2022**: Consultant at Student Conference
