@@ -8,19 +8,11 @@ collection: projects
 
 [🇨🇿](/projects/timer_cs/)
 
-
-
 Simple library for timing in milliseconds, works with Atmega328P, Arduino UNO, may work for other AVRs. Uses `TIMER0` and interrupts, can be easily modified to run on any timer, for that see documentation linked below. Timer can run without an overflow for almost 50 days.
 
-This project is available on [**GitHub**](https://github.com/v-dvorak/timer).
+This project is available on GitHub:<br><br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=v-dvorak&repo=arduino-timer)](https://github.com/v-dvorak/arduino-timer)
 {: .notice--info}
-
-- [Features](#features)
-  - [Init](#init)
-  - [Get](#get)
-  - [Reset](#reset)
-- [Example usage](#example-usage)
-- [Sources](#sources)
 
 ## Features
 
