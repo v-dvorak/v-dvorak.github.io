@@ -1,7 +1,7 @@
 ---
 title: "Keypad"
 permalink: projects/keypad/en/
-excerpt: "<b>📅 29. 2. 2024</b><br/>Taking input from matrix keyboard, displaying it on LCD, sending it via USB; Arduino UNO, Platformio.<br/><br/><img src='/images/keypad_banner.jpg'>"
+excerpt: "Taking input from matrix keyboard, displaying it on LCD, sending it via USB; Arduino UNO, Platformio.<br/><br/><img src='/images/keypad_banner.jpg'>"
 collection: projects
 ---
 📅 29. 2. 2024

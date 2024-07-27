@@ -1,7 +1,7 @@
 ---
 title: "Timer"
 permalink: projects/timer/en/
-excerpt: "<b>📅 27. 2. 2024</b><br/>Simple timer library for Arduino UNO, Atmega328P and other similar AVRs."
+excerpt: "Simple timer library for Arduino UNO, Atmega328P and other similar AVRs."
 collection: projects
 ---
 📅 27. 2. 2024
