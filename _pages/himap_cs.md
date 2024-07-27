@@ -1,11 +1,11 @@
 ---
-permalink: projects/himap_cs/
+permalink: projects/himap/cs
 title: "HiMap"
 author_profile: true
 ---
 📅 22. 4. 2024
 
-[🇬🇧](/projects/himap_en)
+[🇬🇧](/projects/himap/en)
 
 HiMap je konzolová aplikace, díky které lze stahovat Google Mapy s vlastním stylováním, s libovolným podporovaným přiblížením a v libovolné velikosti. Program je napsaný v Pythonu a spoléhá se na Google Maps Static API, skrz kterou si postupně žádá o části mapy a poté je pomocí knihovny `PIL` skládá to jednoho velkého obrázku.
 

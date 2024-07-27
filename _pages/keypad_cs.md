@@ -1,11 +1,11 @@
 ---
-permalink: projects/keypad_cs/
+permalink: project/keypad/cs
 title: "Keypad"
 author_profile: true
 ---
 📅 29. 2. 2024
 
-[🇬🇧](/projects/keypad_en)
+[🇬🇧](/projects/keypad/en)
 
 Propojení maticové klávesnice s přijímačem. Vypsané znaky jsou zobrazovány na LCD a odesílány přes USB. Při psaní lze přepínat mezi velkými a malými písmeny a čísly, zařízení podporuje mazání znaků.
 

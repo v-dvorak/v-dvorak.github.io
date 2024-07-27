@@ -1,12 +1,12 @@
 ---
 title: "HiMap"
-permalink: projects/himap_en/
+permalink: projects/himap/en/
 excerpt: "<b>📅 22. 4. 2024</b><br/>HiMap enables user to download high resolution maps by pasting together multiple map parts using the Google Maps Static API . Outputted map can be heavily customized by styles that can be created and previewed using Snazzy Maps, for example. Supports different zoom levels.<br/><br/><img src='/images/himap_cover.png'>"
 collection: projects
 ---
 📅 22. 4. 2024
 
-[🇨🇿](/projects/himap_cs/)
+[🇨🇿](/projects/himap/cs)
 
 HiMap is a console application that allows you to download Google Maps with custom styling, with any supported zoom and at any size. The program is written in Python and relies on the Google Maps Static API, through which it sequentially requests parts of the map and then uses the `PIL` library to assemble them into one large image.
 

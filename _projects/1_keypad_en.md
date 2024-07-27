@@ -1,6 +1,6 @@
 ---
 title: "Keypad"
-permalink: projects/keypad_en/
+permalink: projects/keypad/en/
 excerpt: "<b>📅 29. 2. 2024</b><br/>Taking input from matrix keyboard, displaying it on LCD, sending it via USB; Arduino UNO, Platformio.<br/><br/><img src='/images/keypad_banner.jpg'>"
 collection: projects
 ---
@@ -13,8 +13,6 @@ Connecting a matrix keypad to the receiver. Characters are displayed on an LCD a
 This project is available on GitHub:<br><br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=v-dvorak&repo=arduino-keypad)](https://github.com/v-dvorak/arduino-keypad)
 {: .notice--info}
-
-![](/images/keypad_banner.jpg)
 
 ## Motivation
 

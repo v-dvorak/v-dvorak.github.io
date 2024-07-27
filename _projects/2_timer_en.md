@@ -1,12 +1,12 @@
 ---
 title: "Timer"
-permalink: projects/timer_en/
+permalink: projects/timer/en/
 excerpt: "<b>📅 27. 2. 2024</b><br/>Simple timer library for Arduino UNO, Atmega328P and other similar AVRs."
 collection: projects
 ---
 📅 27. 2. 2024
 
-[🇨🇿](/projects/timer_cs/)
+[🇨🇿](/projects/timer/cs)
 
 Simple library for timing in milliseconds, works with Atmega328P, Arduino UNO, may work for other AVRs. Uses `TIMER0` and interrupts, can be easily modified to run on any timer, for that see documentation linked below. Timer can run without an overflow for almost 50 days.
 

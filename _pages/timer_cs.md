@@ -1,11 +1,11 @@
 ---
-permalink: projects/timer_cs/
+permalink: project/timer/cs
 title: "Timer"
 author_profile: true
 ---
 📅 27. 2. 2024
 
-[🇬🇧](/projects/timer_en)
+[🇬🇧](/projects/timer/en)
 
 Jednoduchá knihovna pro časování v milisekundách, funguje na Atmega328P / Arduino UNO, s drobnými modifikacemi ji lze použít na různých hodinách mikrokontroleru a pro různá podobná AVR (úpravy lze provést podle dokumentace, link dole). K updatování času používá interrupty, může běžet bez přetečení skoro 50 dní.
 
