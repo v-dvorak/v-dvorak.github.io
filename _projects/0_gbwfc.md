@@ -49,7 +49,9 @@ More complex game level constructions might look like this:
 
 <figure>
     <img src="https://raw.githubusercontent.com/v-dvorak/graphbased-wfc/main/docs/map_example.png" alt=""/>
-    <figcaption>Complex map example, <a href="https://ieeexplore.ieee.org/document/8848019">paper</a></figcaption>
+    <figcaption>
+    Complex map example, <a href="https://ieeexplore.ieee.org/document/8848019">paper</a>.
+    </figcaption>
 </figure>
 
 ### Adjacency problem
@@ -58,15 +60,23 @@ Of course, graphs can be significantly more complex. Sometimes you need to expre
 
 A cell has only four neighbors in the grid, but according to the sudoku rules it depends on a column, a row and a 3x3 square. We could barely contain that in a square grid.
 
-![](https://raw.githubusercontent.com/v-dvorak/graphbased-wfc/main/docs/sudoku_example.png)
+<figure>
+    <img src="https://raw.githubusercontent.com/v-dvorak/graphbased-wfc/main/docs/sudoku_example.png" alt=""/>
+    <figcaption>
+    Sudoku example, <a href="https://ieeexplore.ieee.org/document/8848019">paper</a>.
+    </figcaption>
+</figure>
 
 Another example would be coloring a map, cool, the world map is a planar graph after all, so it's easy and we can even do it with just four colors! The opposite is true, what about such exclaves and enclaves? For example, Kaliningrad and mainland Russia should have the same color on the map, even though they are two cells separated by different cells. If more such problems come together, we may not be able to keep track of them.
 
-![](https://preview.redd.it/r5inx892fxk51.png?auto=webp&s=f2a1931ee9685e6ac3852e99453b6e79cfa98a64)
+<figure>
+    <img src="https://preview.redd.it/r5inx892fxk51.png?auto=webp&s=f2a1931ee9685e6ac3852e99453b6e79cfa98a64" alt=""/>
+    <figcaption>
+    Complex world map. According to a comment on <a href="https://www.reddit.com/r/MapPorn/comments/ilsfug/4_color_theorem_applied_to_europe/">Reddit</a> this map is not quite right, for illustration purposes it will suffice.
+    </figcaption>
+</figure>
 
-> according to a comment on [Reddit](https://www.reddit.com/r/MapPorn/comments/ilsfug/4_color_theorem_applied_to_europe/) this map is not quite right, for illustration purposes it will suffice
-
-From these considerations, we can clearly see that the best would be to have an algorithm that works on an arbitrary oriented graph - any other problem we can convert to it.
+From these considerations, we can clearly see that the best would be to have an algorithm that works on an general oriented graph - any other problem can be converted to it.
 
 ### Why not use the conventional graph coloring algorithm?
 
@@ -111,7 +121,7 @@ The main algorithm is called `RecursiveSolve2`:
 
 Nodes are collapsed in order by their Entropy, by default it's [Shannon Entropy](https://en.wikipedia.org/wiki/Entropy_(information_theory)), but user may specify any delegate when initializing the Solver, which is then used instead of the default one.
 
-## Constraints
+### Constraints
 
 Imagine you are given a Sudoku problem, you don’t start with an empty grid, rather with some of the values filled in - let’s call them constraints aka "the cells set before any solving takes place".
 

@@ -1,5 +1,5 @@
 ---
-permalink: project/keypad/cs
+permalink: projects/keypad/cs
 title: "Keypad"
 author_profile: true
 ---

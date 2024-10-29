@@ -6,7 +6,7 @@ collection: projects
 ---
 📅 29. 2. 2024
 
-[🇨🇿](/projects/keypad_cs/)
+[🇨🇿](/projects/keypad/cs/)
 
 Connecting a matrix keypad to the receiver. Characters are displayed on an LCD and sent via USB. While typing, you can switch between uppercase and lowercase letters and numbers. The device supports character deletion.
 
