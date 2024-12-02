@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome, I’m Vojtěch Dvořák (*vojcɛx dvor̝aːk*), an undergraduate student pursuing a degree in Computer Science at Charles University in Prague, with a focus on machine learning.
+Welcome, I’m Vojtěch Dvořák (*vojcɛx dvor̝aːk*), an undergraduate student pursuing a degree in Computer Science at Charles University in Prague, with a focus on machine learning and optical object detection.
 
-I am passionate about outdoor activities like hiking and cycling, through which I explore nature. I’ve spent many months hitchhiking and traveling by various means to discover new places and meet new people. I enjoy playing computer games (The Witcher, Metro series, Factorio, Mashinky, RimWorld) as well as board and card games (Catan, Carcassonne, Mariasch). 
+I’m all about outdoor adventures like hiking and cycling. I’ve hitchhiked and traveled a ton, always chasing new experiences. When I’m not outdoors, I’m into gaming - both computer games like The Witcher, RimWorld, the Metro series and Factorio, and board or card games like Catan, Carcassonne, Mariasch.
 
-Additionally, music plays a significant role in my life; I appreciate various genres and enjoy playing musical instruments. My interests also include reading books, photography, and memes.
+Music is a big part of my life too - I love all kinds of it and enjoy playing instruments. I’m also into books, photography, and of course, memes!
