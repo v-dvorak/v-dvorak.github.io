@@ -1,5 +1,5 @@
 ---
-permalink: project/timer/cs
+permalink: projects/timer/cs
 title: "Timer"
 author_profile: true
 ---
