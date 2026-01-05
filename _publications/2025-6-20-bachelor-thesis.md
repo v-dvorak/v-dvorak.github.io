@@ -1,0 +1,11 @@
+---
+title: "Fast Optical Music Recognition Using the YOLO Platform"
+collection: publications
+permalink: /publication/2025-bachelor-thesis
+excerpt: 'This bachelor thesis emphasizes practical, scalable OMR systems capable of processing large music archives rather than purely theoretical models. It introduces a modular OMR pipeline based on YOLO11 object detection, separating detection and interpretation to improve efficiency, accuracy, and tunability. Experiments on the OmniOMR and OLiMPiC datasets show notable gains in speed and detection performance, with simplified MusicXML outputs and open-source tools released for future work.'
+date: 2025-6-20
+paperurl: 'https://dspace.cuni.cz/handle/20.500.11956/200867'
+citation: 'DVOŘÁK, Vojtěch. Rychlé rozpoznávání notopisů pomocí platformy YOLO. Bakalářská práce, vedoucí Mayer, Jiří. Praha: Univerzita Karlova, Matematicko-fyzikální fakulta, Ústav formální a aplikované lingvistiky, 2025.'
+---
+
+Optical Music Recognition (OMR) is a specialized field within computer vision focused on converting scanned images of musical scores into machine-readable digital formats. Unlike traditional Optical Character Recognition (OCR) for text, OMR faces unique challenges due to the complex and highly symbolic nature of musical notation, with intricate spatial relationships and hierarchical structures. This thesis shifts the focus of OMR research from theoretical models to practical, scalable systems designed to handle large music archives. The proposed approach leverages the advanced capabilities of object detection models, particularly the YOLO11 series, to create a modular, efficient OMR pipeline capable of processing thousands of pages quickly and accurately. By separating the detection and interpretation stages, this modular framework enables fine-tuning of individual components to optimize for both speed and robustness. The pipeline produces simplified MusicXML outputs, and experiments are conducted on the OmniOMR and OLiMPiC datasets. Results demonstrate significant improvements in both detection accuracy and processing speed. The work also provides open-source libraries to enable future experimentation and development.
